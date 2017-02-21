@@ -42,6 +42,7 @@ public class SmsVitrini  implements SmsProvider
 			String smsUserName = //Set smsUsername;
 			String smsPassword = //set smsPassword ;
 			String smsTitle = //set sms title;
+			//
 
 			List<String> numbers = new ArrayList<>();
 			for (String number : smsModel.getNumbers())
