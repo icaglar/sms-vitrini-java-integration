@@ -1,3 +1,4 @@
+package integration.sms;
 public class Authentication {
 
 	private String username;
